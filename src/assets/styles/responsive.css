@@ -1,0 +1,3 @@
+@media (max-width: 992px) { .container { width: min(calc(100% - 48px), var(--container)); } .section { padding: 84px 0; } }
+@media (max-width: 768px) { .container { width: min(calc(100% - 36px), var(--container)); } .section { padding: 68px 0; } }
+@media (max-width: 576px) { .container { width: min(calc(100% - 32px), var(--container)); } }

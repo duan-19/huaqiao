@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 部署后请将 example.com 替换为正式域名 -->
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/classes</loc></url>
+  <url><loc>https://example.com/visit</loc></url>
+  <url><loc>https://example.com/practice</loc></url>
+  <url><loc>https://example.com/history</loc></url>
+  <url><loc>https://example.com/achievements</loc></url>
+  <url><loc>https://example.com/resources</loc></url>
+  <url><loc>https://example.com/quiz</loc></url>
+</urlset>

@@ -1,0 +1,24 @@
+:root {
+  --color-primary: #9d3f38;
+  --color-primary-dark: #742a28;
+  --color-primary-light: #c56f60;
+  --color-primary-soft: #efd8d1;
+  --color-navy: #17324d;
+  --color-ocean: #315d6d;
+  --color-paper: #f8f1e7;
+  --color-paper-light: #fffaf4;
+  --color-background: #f7f2ec;
+  --color-text: #272522;
+  --color-text-secondary: #69645d;
+  --color-text-light: #918a80;
+  --color-border: #ddd6c9;
+  --color-white: #fff;
+  --shadow-soft: 0 12px 40px rgba(45, 35, 25, 0.08);
+  --shadow-card: 0 8px 30px rgba(45, 35, 25, 0.1);
+  --radius-small: 8px;
+  --radius-medium: 16px;
+  --radius-large: 24px;
+  --container: 1200px;
+  --font-sans: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  --font-serif: "Noto Serif SC", "Songti SC", SimSun, serif;
+}
