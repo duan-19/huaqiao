@@ -4,10 +4,5 @@ node_modules/
 # 构建产物（运行 npm run build 会自动重新生成）
 dist/
 
-# 制作过程文件（Word/PPT/logo 的中间文件，与网页运行无关）
-work/
-outputs/
-photo-contact-sheet.jpg
-
 # 日志文件
 *.log

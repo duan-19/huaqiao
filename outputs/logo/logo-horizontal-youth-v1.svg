@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 760" role="img" aria-labelledby="title desc">
+  <title id="title">青声传薪·数扬侨魂横版组合标</title>
+  <desc id="desc">青年侧影标志与团队中英文名称的横版组合。</desc>
+  <defs>
+    <mask id="youth-cut-h">
+      <rect width="1000" height="1000" fill="#fff"/>
+      <path d="M400 594H567M402 604L484 654L565 604" fill="none" stroke="#000" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <rect width="1800" height="760" rx="36" fill="#F8F1E7"/>
+  <g transform="translate(56 54) scale(.65)">
+    <path d="M594 151C411 93 225 164 149 326C63 509 138 728 301 830C465 933 694 878 824 714" fill="none" stroke="#9D3F38" stroke-width="42" stroke-linecap="round"/>
+    <path mask="url(#youth-cut-h)" fill="#742A28" d="M314 246C384 178 505 163 591 207C645 235 674 282 681 333C686 369 697 389 724 413L747 436C758 447 755 463 742 471L708 490L700 535C696 575 667 598 627 598H585L578 684H438C438 623 411 584 370 550C323 511 292 469 278 421C262 363 274 293 314 246Z"/>
+    <path d="M302 321C311 232 409 162 522 183C463 197 414 226 384 272C364 302 353 332 350 366C333 342 318 329 302 321Z" fill="#9D3F38"/>
+    <path d="M438 684H578L635 814H326C349 755 387 711 438 684Z" fill="#742A28"/>
+    <path d="M717 441C777 418 811 381 848 335" fill="none" stroke="#9D3F38" stroke-width="29" stroke-linecap="round"/>
+    <path d="M722 468C796 458 844 430 894 394" fill="none" stroke="#742A28" stroke-width="25" stroke-linecap="round"/>
+    <path d="M713 494C782 511 847 505 907 470" fill="none" stroke="#9D3F38" stroke-width="22" stroke-linecap="round"/>
+    <rect x="861" y="300" width="43" height="43" rx="9" fill="#742A28"/><rect x="916" y="269" width="27" height="27" rx="6" fill="#9D3F38"/><rect x="913" y="324" width="20" height="20" rx="5" fill="#9D3F38"/><rect x="927" y="449" width="32" height="32" rx="7" fill="#742A28"/>
+  </g>
+  <line x1="734" y1="175" x2="734" y2="585" stroke="#D9C7BA" stroke-width="2"/>
+  <g transform="translate(810 172)">
+    <text x="0" y="116" fill="#742A28" font-family="Noto Serif SC, Source Han Serif SC, Songti SC, Microsoft YaHei, serif" font-size="104" font-weight="700" letter-spacing="8">青声传薪</text>
+    <text x="0" y="230" fill="#9D3F38" font-family="Noto Serif SC, Source Han Serif SC, Songti SC, Microsoft YaHei, serif" font-size="78" font-weight="600" letter-spacing="13">数扬侨魂</text>
+    <rect x="2" y="278" width="78" height="5" rx="2.5" fill="#C56F60"/>
+    <text x="0" y="340" fill="#655C55" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="600" letter-spacing="2">华侨革命史数字科普实践平台</text>
+    <text x="0" y="388" fill="#918A80" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" letter-spacing="1.5">计算机科学与技术学院 · 华侨革命史科普实践团</text>
+  </g>
+</svg>

@@ -1,0 +1,486 @@
+﻿
+ROW 14 unique_tc=1654153929072 paragraphs=3
+P 0 style Normal align None left None first None before None after None line 279400
+ text= '一、实践项目背景及目标'
+  R 0 {'text': '一、实践项目背景及目标', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 14.0, 'bold': None, 'italic': None}
+P 1 style Normal align None left None first 28.0 before None after None line 254000
+ text= '华侨群体是近代民族救亡不可或缺的重要力量，在抗战支援、家国建设中作出卓越贡献。目前不少青少年缺乏对华侨革命历史的认知了解，相关红色文化科普存在空白。以红色基因传承与青年理论宣讲实践为主题，团队成员前往华侨博物院、侨批博物馆、鳌园、陈嘉庚纪念馆、华侨故居、地方图书馆实地开展实践，搜集整合华侨革命史的相关资料。团队依托整理后的素材资料，走进侨英街道凤林美社区面向青少年开展三期专题宣讲，在PPT 宣讲过程中融入华侨爱国歌曲学唱、寄语华侨革命先辈等多样互动活动，让青少年在趣味中学习华侨革命历史、感悟华侨革命精神。实践后期，团队汇总历史资料与活动记录，搭建华侨革命史科普网页，完成实践成果的数字化存档，助力华侨革命史传播。项目集实地实践、社区宣讲、数字存档于一体，以青年宣讲，传承红色侨魂。'
+  R 0 {'text': '华侨', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '群体', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '是近代民族救亡不可或缺的重要力量，在抗战支援、家国建设中作出卓越贡献。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '目前', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '不少', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '青少年缺乏对华侨革命历史的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '认知', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '了解，相关红色文化科普', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '存在空白', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '以', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '红色基因传承与青年理论宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '为', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '主题，团队', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '成员', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '前往华侨博物院、侨批博物馆、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '鳌园、陈嘉庚纪念馆、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '华侨故居、地方图书馆', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '实地', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '开展', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 22 {'text': '，搜集整合华侨革命史', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 23 {'text': '的相关资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 24 {'text': '。团队', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 25 {'text': '依托整理后的素材', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 26 {'text': '资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 27 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 28 {'text': '走进', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 29 {'text': '侨英街道凤林美', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 30 {'text': '社区面向青少年开展三期专题宣讲，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 31 {'text': '在', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 32 {'text': 'PPT ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 33 {'text': '宣讲过程中融入华侨爱国歌曲学唱', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 34 {'text': '、寄语', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 35 {'text': '华侨革命先辈', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 36 {'text': '等多样互动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 37 {'text': '活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 38 {'text': '，让青少年在', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 39 {'text': '趣味', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 40 {'text': '中', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 41 {'text': '学习华侨革命', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 42 {'text': '历史、感悟华侨革命精神', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 43 {'text': '。实践后期', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 44 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 45 {'text': '团队', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 46 {'text': '汇总', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 47 {'text': '历史资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 48 {'text': '与活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 49 {'text': '记录', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 50 {'text': '，搭建华侨革命史科普网页，完成', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 51 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 52 {'text': '成果', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 53 {'text': '的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 54 {'text': '数字化存档', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 55 {'text': '，助力华侨革命史传播', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 56 {'text': '。项目', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 57 {'text': '集', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 58 {'text': '实地', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 59 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 60 {'text': '、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 61 {'text': '社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 62 {'text': '宣讲、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 63 {'text': '数字存档于', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 64 {'text': '一体，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 65 {'text': '以', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 66 {'text': '青年宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 67 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 68 {'text': '传承红色侨魂。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 2 style Normal align None left None first None before None after None line 254000
+ text= ''
+
+ROW 15 unique_tc=1654153925872 paragraphs=29
+P 0 style Normal align None left None first None before None after None line 279400
+ text= '二、实践方案'
+  R 0 {'text': '二、实践方案', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 14.0, 'bold': None, 'italic': None}
+P 1 style Normal align None left None first None before None after None line 254000
+ text= '（一）实践地点基本情况'
+  R 0 {'text': '（一）实践地点基本情况', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 2 style Normal align None left None first 28.0 before None after None line 254000
+ text= '实践地点均在厦门市，包含华侨博物院、侨批博物馆、鳌园、陈嘉庚纪念馆、华侨历史故居、公共图书馆与侨英街道凤林美社区。'
+  R 0 {'text': '实践地点', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '均在厦门市，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '包含华侨博物院、侨批博物馆、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '鳌园、陈嘉庚纪念馆、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '华侨历史故居、公共图书馆与', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '侨英街道凤林美', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 3 style Normal align None left None first 28.0 before None after None line 254000
+ text= '各处文博场馆侨史文献、实物展品馆藏丰富，是挖掘华侨革命史的优质实地研学阵地，支撑完成史料搜集工作；公共图书馆存有地方史志与侨乡文献，可对收集的资料进行补充，完善史料体系；合作社区配有标准化活动室，多媒体、投影设备等硬件设施齐全，具有开展红色科普宣讲的良好条件，丰富青少年课余活动。'
+  R 0 {'text': '各处文博场馆侨史文献、实物展品', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '馆藏', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '丰富，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '是挖掘华侨革命史的优质实地研学阵地，支撑完成', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '史料搜集工作；公共图书馆存有地方', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '史志', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '与侨乡文献', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '可对收集的资料进行补充，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '完善', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '史料体系', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '；合作社区配有标准化活动室', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '，多媒体、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '投影设备', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '等硬件设施齐全', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '具有', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '开展', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '红色科普宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '的良好条件', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '，丰富', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '青少年课余活动。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 4 style Normal align None left None first None before None after None line 254000
+ text= '（二）日程安排'
+  R 0 {'text': '（二）日程安排', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 5 style Normal align None left None first None before None after None line 254000
+ text= '7月4日 项目前期准备工作：设计华侨历史认知调查问卷，对接各实践点位，敲定宣讲场次，完成物料筹备；'
+  R 0 {'text': '7月', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '4', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '日', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': ' 项目前期准备工作', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '：设计华侨历史认知调查问卷，对接各实践点位，敲定宣讲场次，完成物料筹备；', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 6 style Normal align None left None first None before None after None line 254000
+ text= '7月5日 团队成员共同前往华侨博物院、侨批博物馆、华侨故居实地开展实践，为后续社区宣讲和科普网页搭建收集素材资料；'
+  R 0 {'text': '7月5日', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': ' ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '团队成员共同前往', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '华侨博物院、侨批博物馆、华侨故居', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '实地开展', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '实践，为后续社区宣讲和科普网页搭建收集素材资料；', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 7 style Normal align None left None first None before None after None line 254000
+ text= '7月12日起每周周日 走进社区，面向青少年陆续开展三期华侨革命史主题宣讲；'
+  R 0 {'text': '7', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '月', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '12', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '日起每周周日', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': ' ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '走', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '进社区，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '面向青少年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '陆续开展三期', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '华侨革命', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '史主题宣讲；', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 8 style Normal align None left None first None before None after None line 254000
+ text= '8月5日至8月25日 整合全部收集材料与活动素材，全员协同搭建科普网页；'
+  R 0 {'text': '8', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '月5日至8月25日 ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '整合全部', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '收集', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '材料与活动素材，全员协同搭建科普网页；', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 9 style Normal align None left None first None before None after None line 254000
+ text= '8月26日至9月1日 项目结项准备工作：汇总各类材料，整理实践成果，完成项目收尾。'
+  R 0 {'text': '8月26日至9月1日 ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '项目结项', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '准备工作', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '：', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '汇总各类材料，整理实践成果，完成项目收尾。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 10 style Normal align None left None first None before None after None line 254000
+ text= '（三）实践内容和方式'
+  R 0 {'text': '（三）实践内容和方式', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 11 style Normal align None left None first 28.0 before None after None line 254000
+ text= '一是实地史料搜集。团队成员去往各类与华侨革命相关的场馆进行实践活动，通过实地参观的方式，收集记录史实资料，并结合线上权威资料完善史料内容，为社区宣讲与科普网页制作提供内容素材。'
+  R 0 {'text': '一是实地史料搜集。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '团队成员', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '去往', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '各类', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '与华侨革命相关的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '场馆', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '进行实践活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '，通过实地参观', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '的方式，收集', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '记录史实', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '并', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '结合线上权威资料完善史料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '内容', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '，为', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '宣讲与', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '科普', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '网页制作', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '提供', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '内容', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 22 {'text': '素材', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 23 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 12 style Normal align None left None first 28.0 before None after None line 254000
+ text= '二是社区主题宣讲。围绕华侨支援抗战、侨批家国情怀、华侨革命青年榜样三大主题走进社区面向青少年开展三期科普宣讲，主体采用 PPT 宣讲科普华侨革命史，中间穿插华侨爱国歌曲学唱、书写致侨先辈寄语等多种互动活动，并选用定制明信片、纪念小挂件等作为答题奖品，调动青少年参与热情，提升青少年学习体验。'
+  R 0 {'text': '二是社区主题宣讲。围绕华侨', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '支', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '援', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '抗', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '战、侨批家国情怀、华侨革命青年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '榜样', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '三大主题', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '走进社区面向青少年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '开展三期科普', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '主体', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '采用 PPT ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '科普华侨革命史，中间穿插', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '华侨爱国歌曲学唱', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '、书写致侨先辈寄语等', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '多种互动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '并选用定制', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '明信片、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 22 {'text': '纪念', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 23 {'text': '小挂件', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 24 {'text': '等作为答题奖品，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 25 {'text': '调动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 26 {'text': '青少年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 27 {'text': '参与热情', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 28 {'text': '，提升青少年学习体验', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 29 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 13 style Normal align None left None first 28.0 before None after None line 254000
+ text= '三是科普网页搭建。团队汇总整合实地收集资料、社区宣讲课件、实践活动纪实影像，分工搭建网页三大板块，实践纪实板块收录团队实地走访场馆与社区宣讲全过程图文影像，以及项目开展的全过程工作记录，完整留存团队项目开展实践过程；侨史科普板块归档整理搜集的华侨革命史相关资料与三期社区宣讲 PPT内容，面向公众开放查阅学习；资源推荐板块汇总优质有关华侨红色资源的外部资源链接，拓宽公众了解渠道。数字化存档团队实践记录，同时整合汇总华侨革命史相关资源，方便公众查询了解，实现更广泛的科普传播效果。'
+  R 0 {'text': '三是科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '搭建', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '团队汇总', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '整合', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '实地收集资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '宣讲课件', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '、实践活动纪实', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '影像，分工', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '搭建', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '三大', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '板块，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '实践纪实板块收录', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '团队实地走访场馆与', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '社区宣讲全过程图文影像，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '以及项目开展的全过程工作记录，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '完整留存', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '团队', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '项目', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 22 {'text': '开展', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 23 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 24 {'text': '过程', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 25 {'text': '；侨史科普', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 26 {'text': '板块', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 27 {'text': '归档整理搜集的华侨', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 28 {'text': '革命史相关资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 29 {'text': '与', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 30 {'text': '三期社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 31 {'text': '宣讲 PPT', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 32 {'text': '内容', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 33 {'text': '，面向', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 34 {'text': '公众', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 35 {'text': '开放查阅学习；资源推荐', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 36 {'text': '板块', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 37 {'text': '汇总优质', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 38 {'text': '有关', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 39 {'text': '华侨红色资源', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 40 {'text': '的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 41 {'text': '外部资源链接，拓宽', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 42 {'text': '公众了解', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 43 {'text': '渠道。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 44 {'text': '数字化存档团队实践记录', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 45 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 46 {'text': '同时整合汇总华侨革命史相关资源，方便公众查询了解，实现更广泛的科普传播效果', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 47 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 14 style Normal align None left None first None before None after None line 254000
+ text= '（四）人员分工'
+  R 0 {'text': '（四）人员分工', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 15 style Normal align None left None first None before None after None line 254000
+ text= '段佳锐：统筹项目进度，对接博物馆、社区与指导老师；管理经费开支；汇总结题材料；分工协作搭建科普网页'
+  R 0 {'text': '段佳锐：统筹项目进度，对接博物馆、社区与指导老师；管理经费开支；汇总结题材料；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 16 style Normal align None left None first None before None after None line 254000
+ text= '廖彦：搜集整理华侨史料素材；制作三期宣讲PPT内容；分工协作搭建科普网页'
+  R 0 {'text': '廖彦：搜集整理华侨史料素材；制作三期宣讲PPT内容；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 17 style Normal align None left None first None before None after None line 254000
+ text= '贾玲玲：轮流负责宣讲主讲；协助宣讲PPT制作；分工协作搭建科普网页'
+  R 0 {'text': '贾玲玲：轮流负责宣讲主讲；协助宣讲PPT制作；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 18 style Normal align None left None first None before None after None line 254000
+ text= '杨佩俊：拍摄活动短片，记录实践过程；分工协作搭建科普网页'
+  R 0 {'text': '杨佩俊：拍摄活动短片，记录实践过程；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 19 style Normal align None left None first None before None after None line 254000
+ text= '方佳怡：主持三场宣讲，串联互动环节；轮流负责宣讲主讲；分工协作搭建科普网页'
+  R 0 {'text': '方佳怡：主持三场宣讲，串联互动环节；轮流负责宣讲主讲；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 20 style Normal align None left None first None before None after None line 254000
+ text= '张婉婷：轮流负责宣讲主讲；视频后期剪辑；分工协作搭建科普网页'
+  R 0 {'text': '张婉婷：轮流负责宣讲主讲；视频后期剪辑；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 21 style Normal align None left None first None before None after None line 254000
+ text= '熊媛媛：布置每期活动场地；物资整理；分工协作搭建科普网页'
+  R 0 {'text': '熊媛媛：布置每期活动场地；物资整理；分工协作搭建科普网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 22 style Normal align None left None first None before None after None line 254000
+ text= '（五）突发情况预案'
+  R 0 {'text': '（五）突发情况预案', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 23 style Normal align None left None first None before None after None line 254000
+ text= '1. 天气应急：若遭遇暴雨、台风等极端天气无法外出，实地调研、社区宣讲统一延后，负责人第一时间联系博物馆、社区负责人协商改期，同步调整团队工作，制作完善宣讲PPT、整理收集线上史料并同步搭建科普网页框架。'
+  R 0 {'text': '1. 天气应急：若遭遇暴雨、台风等极端天气无法外出，实地调研、社区宣讲统一延后，负责人第一时间联系博物馆、社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '负责', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '人协商改期，同步调整', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '团队', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '工作，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '制作完善宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': 'PPT、整理', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '收集线上', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '史料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '并同步搭建科普网页框架', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 24 style Normal align None left None first None before None after None line 254000
+ text= '2. 人身健康应急：实践全程随身携带创可贴、肠胃药、驱蚊用品等常备药品；若有团队成员突发伤病无法到场，由机动成员代替宣讲、拍摄、物资等工作，严重不适立即就近就医，负责人实时跟进情况。'
+  R 0 {'text': '2. 人身健康应急：实践全程随身携带创可贴、肠胃药、驱蚊用品等常备药品；', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '若有团队成员', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '突发伤病无法到场，由', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '机动成员代替', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '宣讲、拍摄、物资等工作，严重不适立即就近就医，负责人实时跟进情况。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 25 style Normal align None left None first None before None after None line 254000
+ text= '3. 设备故障应急：宣讲课件分存云端、U 盘、成员手机三处多重备份；社区活动自带备用笔记本电脑、数据线，如现场投影、音响损坏，快速切换备用设备，短时无法修复则临时调整为互动分享环节。'
+  R 0 {'text': '3. 设备故障应急：宣讲课件分存云端、U 盘、成员手机三处多重备份；社区活动自带备用笔记本电脑、数据线，如现场投影、音响损坏，快速切换备用设备，短时无法修复则临时调整为互动分享环节。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 26 style Normal align None left None first None before None after None line 254000
+ text= '4. 现场秩序应急：宣讲现场若出现孩童吵闹、人员扎堆等情况，主持人配合社区工作人员协调管理，拆分问答、写信环节分散人流；遇家长咨询纠纷，由项目负责人出面友好协商处理。'
+  R 0 {'text': '4. 现场秩序应急：宣讲现场若出现孩童吵闹、人员扎堆等情况，主持人配合社区工作人员', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '协调', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '管理，拆分问答、写信环节分散人流；遇家长咨询纠纷，由项目负责人出面友好协商处理。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 27 style Normal align None left None first None before None after None line 254000
+ text= '5. 场地变动应急：如社区活动室临时被占用，立刻联系社区咨询备用室内场地，无法就地开展则另行约定宣讲日期。'
+  R 0 {'text': '5. 场地变动应急：如社区活动室', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '临时被占用', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '，立刻', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '联系', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '咨询', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '备用室内场地，无法就地开展则另行约定宣讲日期。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 28 style Normal align None left None first None before None after None line 254000
+ text= ''
+
+ROW 16 unique_tc=1654153930752 paragraphs=6
+P 0 style Normal align None left None first None before None after None line 279400
+ text= '三、预期成果与成效'
+  R 0 {'text': '三、预期成果与成效', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 14.0, 'bold': None, 'italic': None}
+P 1 style Normal align None left None first None before None after None line 254000
+ text= '（一）宣传方案'
+  R 0 {'text': '（一）宣传方案', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 2 style Normal align None left None first 28.0 before None after None line 254000
+ text= '采用线下纪实与线上传播相结合的推广方式，全程记录场馆调研与社区宣讲的过程图像、视频素材。后期处理剪辑实践纪实短视频，在微信视频号、抖音等主流平台发布，视频文案附带科普网页跳转链接，借助新媒体形式扩大华侨革命史的科普范围、延伸传播时效。'
+  R 0 {'text': '采用线下纪实', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '与', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '线上传播相结合的推广方式，全程记录场馆调研与社区宣讲', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '的过程', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '图', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '像', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '、视频素材。后期', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '处理', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '剪辑实践纪实短视频，在微信视频号、抖音等', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '主流', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '平台发布，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '视频', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '文案附带科普网页跳转链接，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '借助', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '新媒体', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '形式', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '扩大', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '华侨革命史的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '科普', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '范围、延伸', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '传播时效。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 3 style Normal align None left None first None before None after None line 254000
+ text= '（二）预期成果与成效'
+  R 0 {'text': '（二）预期成果与成效', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 4 style Normal align None left None first 28.0 before None after None line 254000
+ text= '成果方面，整理汇总收集的侨史资料、三套社区宣讲 PPT、青少年活动作品与实践过程影像资料，建成包含三大板块的华侨革命专题科普网页。实践实际落地三场社区科普宣讲，补充青少年对华侨革命史的认知了解，充实社区红色教育资源；数字化网页存档，实现实践记录长久保存，搭建线上科普平台便于公众查询了解，实现科普的更广泛传播。团队成员在实践活动中锤炼综合能力、感悟红色力量，立足青年使命，用实际行动传承爱国侨魂。'
+  R 0 {'text': '成果方面，整理汇总', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 1 {'text': '收集的', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 2 {'text': '侨史资料、三', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 3 {'text': '套社区', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 4 {'text': '宣讲 PPT、青少年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 5 {'text': '活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 6 {'text': '作品', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 7 {'text': '与实践过程影像资料', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 8 {'text': '，建成', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 9 {'text': '包含', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 10 {'text': '三大板块的华侨革命专题科普网页。实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 11 {'text': '实际落地', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 12 {'text': '三场社区科普宣讲，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 13 {'text': '补充', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 14 {'text': '青少年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 15 {'text': '对', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 16 {'text': '华侨', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 17 {'text': '革命史的认知了解', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 18 {'text': '，充实社区红色教育资源；数字化网页', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 19 {'text': '存档，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 20 {'text': '实现', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 21 {'text': '实践记录', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 22 {'text': '长久保存，搭建线上科普平台', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 23 {'text': '便于公众查询了解，实现科普的更广泛传播', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 24 {'text': '。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 25 {'text': '团队成员', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 26 {'text': '在', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 27 {'text': '实践', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 28 {'text': '活动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 29 {'text': '中', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 30 {'text': '锤炼综合能力、', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 31 {'text': '感悟红色力量', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 32 {'text': '，', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 33 {'text': '立足', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 34 {'text': '青年', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 35 {'text': '使命，用实际行动', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+  R 36 {'text': '传承爱国侨魂。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 14.0, 'bold': None, 'italic': None}
+P 5 style Normal align None left None first None before None after None line 190500
+ text= ''
+
+ROW 17 unique_tc=1654153932512 paragraphs=8
+P 0 style Normal align None left None first None before None after None line 279400
+ text= '四、项目承诺'
+  R 0 {'text': '四、项目承诺', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 14.0, 'bold': None, 'italic': None}
+P 1 style Normal align None left None first 21.75 before None after None line 254000
+ text= '如获得立项，本人将与项目组成员团结一致，努力做好该项目的研究及实施工作，实现制定的目标。如果因主观原因导致项目执行不力，未达到预期目标，本人与项目组成员愿意承担相应损失，并接受学校相应处理。'
+  R 0 {'text': '如获得立项，本人将与项目组成员团结一致，努力做好该项目的研究及实施工作，实现制定的目标。如果因主观原因导致项目执行不力，未达到预期目标，本人与项目组成员愿意承担相应损失，并接受学校相应处理。', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 12.0, 'bold': True, 'italic': None}
+P 2 style Normal align None left None first 30.0 before None after None line 254000
+ text= '项目全体成员签名： '
+  R 0 {'text': '项目全体成员签名： ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 12.0, 'bold': None, 'italic': None}
+P 3 style Normal align None left None first 30.1 before None after None line 254000
+ text= ''
+P 4 style Normal align None left None first 30.1 before None after None line 254000
+ text= ''
+P 5 style Normal align None left None first 30.1 before None after None line 254000
+ text= ''
+P 6 style Normal align None left None first 30.1 before None after None line 254000
+ text= ''
+P 7 style Normal align None left None first None before None after None line 254000
+ text= '                                                           2026  年  6  月  5  日  '
+  R 0 {'text': '                                                           ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 1 {'text': '2026', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 2 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 3 {'text': '年', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 4 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 5 {'text': '6', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 6 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 7 {'text': '月', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 8 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 9 {'text': '5', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 10 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 11 {'text': '日', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+  R 12 {'text': '  ', 'font': None, 'east': None, 'ascii': None, 'size': 12.0, 'bold': True, 'italic': None}
+
+COVER
+P 5 '2026年暑期社会实践活动' align CENTER (1) style Normal
+  R 0 {'text': '202', 'font': None, 'east': '黑体', 'ascii': None, 'size': 22.0, 'bold': True, 'italic': None}
+  R 1 {'text': '6', 'font': None, 'east': '黑体', 'ascii': None, 'size': 22.0, 'bold': True, 'italic': None}
+  R 2 {'text': '年暑期社会实践活动', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 22.0, 'bold': None, 'italic': None}
+P 6 '团 队 项 目 申 报 书' align CENTER (1) style Normal
+  R 0 {'text': '团 队 项 目 申 报 书', 'font': '黑体', 'east': '黑体', 'ascii': '黑体', 'size': 36.0, 'bold': True, 'italic': None}
+P 8 '项目名称：“青声传薪，数扬侨魂”华侨革命史科普                            ' align None style Normal
+  R 0 {'text': '项目名称：', 'font': None, 'east': '黑体', 'ascii': None, 'size': 16.0, 'bold': None, 'italic': None}
+  R 1 {'text': '“青声传薪，数扬侨魂”华侨革命史科普 ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 2 {'text': '                           ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+P 9 '所属单位（学院）：     计算机科学与技术学院                 ' align None style Normal
+  R 0 {'text': '所属单位（学院）：', 'font': None, 'east': '黑体', 'ascii': None, 'size': 16.0, 'bold': None, 'italic': None}
+  R 1 {'text': '     ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 2 {'text': '计算机科学与技术学院', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 3 {'text': '                 ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+P 10 '项目负责人：            段佳锐                  ' align None style Normal
+  R 0 {'text': '项目负责人：', 'font': None, 'east': '黑体', 'ascii': None, 'size': 16.0, 'bold': None, 'italic': None}
+  R 1 {'text': '          ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 2 {'text': '  段佳锐', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 3 {'text': '                  ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+P 11 '指导教师：              黄毅凯                  ' align None style Normal
+  R 0 {'text': '指导教师：', 'font': None, 'east': '黑体', 'ascii': None, 'size': 16.0, 'bold': None, 'italic': None}
+  R 1 {'text': '           ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 2 {'text': '  ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 3 {'text': ' ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 4 {'text': '黄毅凯', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+  R 5 {'text': '                  ', 'font': '仿宋_GB2312', 'east': '仿宋_GB2312', 'ascii': '仿宋_GB2312', 'size': 16.0, 'bold': None, 'italic': None}
+P 16 '共青团华侨大学委员会  制' align CENTER (1) style Normal
+  R 0 {'text': '共青团华侨大学委员会', 'font': None, 'east': '黑体', 'ascii': None, 'size': 15.0, 'bold': None, 'italic': None}
+  R 1 {'text': '  ', 'font': None, 'east': '黑体', 'ascii': None, 'size': 15.0, 'bold': None, 'italic': None}
+  R 2 {'text': '制', 'font': None, 'east': '黑体', 'ascii': None, 'size': 15.0, 'bold': None, 'italic': None}
+P 18 '立项说明' align None style Title
+  R 0 {'text': '立项说明', 'font': '方正小标宋简体', 'east': '方正小标宋简体', 'ascii': '方正小标宋简体', 'size': 22.0, 'bold': False, 'italic': None}
